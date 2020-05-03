@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    width:90%;
+    margin:auto;
+    min-width:100%;
+    max-width:100%;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: inherit;
+    flex-direction: column;
+}
+.image {
+    display: block;
+    width: 370px;
+    margin: 40px auto;
+}
+@media (max-width: 770px) {
+    .container
+    {
+        margin: 0 10%;
+    }
+    .image{
+        width: 100%;
+    }
+
+}
+
