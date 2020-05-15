@@ -31,11 +31,6 @@ API provided by: https://github.com/mathdroid/covid-19-api
 
 ## Preview
 
-- ![Global Data](https://github.com/sambreen27/covid19/blob/master/src/images/covid1.png) 
-![Global Data](https://github.com/sambreen27/covid19/blob/master/src/images/covid2.png) 
-![Specific Country Data](https://github.com/sambreen27/covid19/blob/master/src/images/covid3.png)
-
-
 
 
 
