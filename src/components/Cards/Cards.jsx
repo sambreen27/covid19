@@ -8,7 +8,7 @@ import styles from './Cards.module.css';
 const Cards = ({ data: {confirmed, recovered, deaths, lastUpdate }}) => {
     console.log(confirmed);
     if (!confirmed){
-        return 'Loading..';
+        return 'Loading.';
     }
 
     return (
