@@ -24,6 +24,10 @@
 
 }
 
+.test{
+    text-align: center;
+}
+
 @media (max-width: 770px) {
     .card
     {
